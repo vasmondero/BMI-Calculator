@@ -28,4 +28,3 @@
         }
     }
 }
-//kropka to wróg przecinek to bóg
